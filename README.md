@@ -7,7 +7,7 @@ Data: 21 de outubro de 2022</p>
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77933748/197393371-d26eca2f-7b91-4a86-ae17-65a207f4e29a.gif)
 
-<h3>Problema: <img src="https://media.giphy.com/media/sTZFHxrtbhiHWod2R7/giphy.gif" width="20"></h3>
+<h3>Problema: <img src="https://media.giphy.com/media/sTZFHxrtbhiHWod2R7/giphy.gif" width="30"></h3>
 <p>Uma loja deseja ter um sistema de cadastro de seus produtos para que futuramente possa ter
 um módulo de vendas.<br>
 Um analista de requisitos realizou a coleta de dados relevantes para a construção do sistema e
