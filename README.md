@@ -26,3 +26,9 @@ projeto base disponibilizado, desenvolva um sistema que seja capaz de atender as
 especificações descritas pelo analista.<br>
 
 <h2>Validações De Erros <img src="https://media.giphy.com/media/zxjUOvKG7NteTqDb34/giphy.gif" width="60"> </h2> 
+<p>CADASTRO UNIDADE DE MEDIDA:<br><img src="https://media.giphy.com/media/5nTBxVkcZNtChJr30f/giphy.gif" width="20">O campo não pode ser vazio<br>
+<img src="https://media.giphy.com/media/5nTBxVkcZNtChJr30f/giphy.gif" width="20">O conteúdo já existe no Arquivo<br>
+CADASTRAR PRODUTO:<br>
+<img src="https://media.giphy.com/media/5nTBxVkcZNtChJr30f/giphy.gif" width="20">Os campos não pode estar vazio<br>
+<img src="https://media.giphy.com/media/5nTBxVkcZNtChJr30f/giphy.gif" width="20">O usuário deve selecionar uma opção de unidade de medida<br>
+<img src="https://media.giphy.com/media/5nTBxVkcZNtChJr30f/giphy.gif" width="20">O preço unitario deve ser um numero.</p>
