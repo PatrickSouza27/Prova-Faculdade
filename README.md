@@ -1,4 +1,4 @@
-<h1>Prova - Serviço Nacional de Aprendizagem Comercial/Senac <img src="https://media.giphy.com/media/yN7xIm44NqCYq29Wly/giphy.gif" width="60"></h1>
+<h1>Avaliação - Serviço Nacional de Aprendizagem Comercial/Senac <img src="https://media.giphy.com/media/yN7xIm44NqCYq29Wly/giphy.gif" width="60"></h1>
 <p>Professor: Lucas Felício Alfini<br> 
 Curso: Análise e Desenvolvimento de Sistemas<br>
 Disciplina: Programação Orientada a Objetos<br>
